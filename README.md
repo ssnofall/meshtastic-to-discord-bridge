@@ -24,7 +24,7 @@ A Python application that bridges Meshtastic mesh network messages to Discord us
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/axlixr/Meshtastic-to-Discord-bridge.git
+   git clone https://github.com/ssnofall/Meshtastic-to-Discord-bridge.git
    cd meshtastic-to-discord-bridge
    ```
 
